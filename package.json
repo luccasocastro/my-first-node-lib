@@ -1,0 +1,19 @@
+{
+  "name": "my-first-node-lib",
+  "version": "1.0.0",
+  "description": "my first package on npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luccasocastro/my-first-node-lib.git"
+  },
+  "author": "luccasocastro <emaildocastro.adm01@gmail.com>",
+  "license": "SEE LICENSE IN license",
+  "bugs": {
+    "url": "https://github.com/luccasocastro/my-first-node-lib/issues"
+  },
+  "homepage": "https://github.com/luccasocastro/my-first-node-lib#readme"
+}
